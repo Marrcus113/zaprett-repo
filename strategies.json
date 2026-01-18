@@ -558,5 +558,13 @@
     "hash": "c45b1acdc2b755749258882d50f7f9d91592d3f9bfb76cdbcba5dc25113df4f0",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-alt10.txt"
+  },
+  {
+    "name": "strategy-alt11.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "1554c02f39b9b3310aeb1780fbe710e84be73430c2e1b4ef19b77c2574791d2d",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-alt11.txt"
   }
 ]
