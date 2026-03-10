@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-extended",
+  "version": "1.0.0",
   "author": "zaprett-devs",
   "description": "Почти всё, что РКН когда-либо блокировал",
   "dependencies": [],

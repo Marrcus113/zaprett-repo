@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-exclude-x5group",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "X5group домены для черного списка",
   "dependencies": [],

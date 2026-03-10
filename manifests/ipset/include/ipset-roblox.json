@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "ipset-roblox",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "Ipset Roblox",
   "dependencies": [],

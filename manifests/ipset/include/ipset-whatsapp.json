@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "ipset-whatsapp",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "Ipset'ы для работы whatsapp (отправляет сообщения не сразу)",
   "dependencies": [],

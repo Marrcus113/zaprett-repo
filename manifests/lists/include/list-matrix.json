@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-matrix",
+  "version": "1.0.0",
   "author": "zaprett-devs",
   "description": "Домены Matrix",
   "dependencies": [],

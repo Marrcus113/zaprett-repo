@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-exclude-tiktok",
+  "version": "1.0.0",
   "author": "dotFelixan",
   "description": "Домены TikTok для черного списка",
   "dependencies": [],

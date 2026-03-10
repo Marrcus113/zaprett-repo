@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-meta-services",
+  "version": "1.0.0",
   "author": "@XZY18RUS",
   "description": "Домены Meta (Facebook, Instagram и т.п.)",
   "dependencies": [],

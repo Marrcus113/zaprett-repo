@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-exclude-yandex",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "Яндекс домены для черного списка",
   "dependencies": [],

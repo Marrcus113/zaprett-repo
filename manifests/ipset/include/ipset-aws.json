@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "ipset-aws",
+  "version": "1.0.0",
   "author": "Harikso",
   "description": "Ipset v4/v6 Amazon Web Services",
   "dependencies": [],

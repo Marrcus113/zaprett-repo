@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-telegram",
+  "version": "1.0.0",
   "author": "zaprett-devs & @mewmrow",
   "description": "Домены Telegram",
   "dependencies": [],

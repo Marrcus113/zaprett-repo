@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-discord",
+  "version": "1.0.0",
   "author": "zaprett-devs",
   "description": "Домены Discord",
   "dependencies": [],

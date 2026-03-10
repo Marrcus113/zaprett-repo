@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-exclude-general",
+  "version": "1.0.0",
   "author": "zaprett-devs and our community",
   "description": "Общие домены для черного списка",
   "dependencies": [],

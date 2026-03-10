@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-exclude-gosuslugi",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "Домены госуслуг для черного списка",
   "dependencies": [],

@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "ipset-exclude-gosuslugi",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "Ipset'ы для чёрного списка",
   "dependencies": [],

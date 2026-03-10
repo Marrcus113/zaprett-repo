@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "ipset-exclude-yandex.",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "Ipset'ы для чёрного списка",
   "dependencies": [],

@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-roblox",
+  "version": "1.0.0",
   "author": "zaprett-devs and @mewmrow",
   "description": "Домены Roblox",
   "dependencies": [],

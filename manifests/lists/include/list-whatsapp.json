@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "name": "list-whatsapp",
+  "version": "1.0.0",
   "author": "@mewmrow",
   "description": "Домены whatsapp (отправляет сообщения не сразу)",
   "dependencies": [],
