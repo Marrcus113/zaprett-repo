@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-shizapret-alt-port",
   "name": "strategy-shizapret-alt-port",
   "version": "1.0.0",
   "author": "sch-izo (Портировал dotFelixan)",

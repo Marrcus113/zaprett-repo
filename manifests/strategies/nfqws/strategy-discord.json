@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-discord",
   "name": "strategy-discord",
   "version": "1.0.0",
   "author": "Snowy-Fluffy",

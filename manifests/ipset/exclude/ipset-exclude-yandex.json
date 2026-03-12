@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "ipset-exclude-yandex.",
   "name": "ipset-exclude-yandex.",
   "version": "1.0.0",
   "author": "@mewmrow",

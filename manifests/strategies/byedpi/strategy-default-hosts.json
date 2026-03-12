@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-default-hosts",
   "name": "strategy-default-hosts",
   "version": "1.0.0",
   "author": "zaprett-devs",

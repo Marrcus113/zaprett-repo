@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-shizapret-md5sig-port",
   "name": "strategy-shizapret-md5sig-port",
   "version": "1.0.0",
   "author": "sch-izo (Портировал dotFelixan)",

@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "list-exclude-yandex",
   "name": "list-exclude-yandex",
   "version": "1.0.0",
   "author": "@mewmrow",

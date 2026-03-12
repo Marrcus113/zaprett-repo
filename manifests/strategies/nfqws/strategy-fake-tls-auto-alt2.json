@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-fake-tls-auto-alt2",
   "name": "strategy-fake-tls-auto-alt2",
   "version": "1.0.0",
   "author": "flowseal",

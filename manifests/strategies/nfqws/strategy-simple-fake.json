@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-simple-fake",
   "name": "strategy-simple-fake",
   "version": "1.0.0",
   "author": "flowseal",

@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "ipset-whatsapp",
   "name": "ipset-whatsapp",
   "version": "1.0.0",
   "author": "@mewmrow",

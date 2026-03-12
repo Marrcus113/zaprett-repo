@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-simple-fake-alt",
   "name": "strategy-simple-fake-alt",
   "version": "1.0.0",
   "author": "flowseal",

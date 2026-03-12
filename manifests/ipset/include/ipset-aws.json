@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "ipset-aws",
   "name": "ipset-aws",
   "version": "1.0.0",
   "author": "Harikso",

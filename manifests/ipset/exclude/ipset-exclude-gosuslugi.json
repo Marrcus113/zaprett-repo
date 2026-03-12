@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "ipset-exclude-gosuslugi",
   "name": "ipset-exclude-gosuslugi",
   "version": "1.0.0",
   "author": "@mewmrow",

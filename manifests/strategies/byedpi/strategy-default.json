@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-default",
   "name": "strategy-default",
   "version": "1.0.0",
   "author": "zaprett-devs",

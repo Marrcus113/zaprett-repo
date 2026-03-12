@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "list-twitter",
   "name": "list-twitter",
   "version": "1.0.0",
   "author": "zaprett-devs",

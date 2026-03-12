@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "list-telegram",
   "name": "list-telegram",
   "version": "1.0.0",
   "author": "zaprett-devs & @mewmrow",

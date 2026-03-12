@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "tls_clienthello_max_ru",
   "name": "tls_clienthello_max_ru",
   "version": "1.0.0",
   "author": "zaprett-devs",

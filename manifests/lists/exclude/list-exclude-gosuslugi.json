@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "list-exclude-gosuslugi",
   "name": "list-exclude-gosuslugi",
   "version": "1.0.0",
   "author": "@mewmrow",

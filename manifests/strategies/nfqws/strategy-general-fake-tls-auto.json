@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "id": "strategy-general-fake-tls-auto",
   "name": "strategy-general-fake-tls-auto",
   "version": "1.0.0",
   "author": "Snowy-Fluffy",
