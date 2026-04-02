@@ -3,6 +3,8 @@ name: Update Hashes
 on:
   workflow_dispatch:
   push:
+    paths:
+      - 'files/**'
 
 jobs:
   update-hashes:
