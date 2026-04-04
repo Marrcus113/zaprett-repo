@@ -33,6 +33,9 @@ jobs:
       - name: Run binary
         run: ./zaprett-repo-utils-linux-x86_64 update
 
+      - name: Remove binary
+        run: rm -f zaprett-repo-utils-linux-x86_64
+
       - name: Show diff
         run: git diff
 
